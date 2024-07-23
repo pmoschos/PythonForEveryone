@@ -4,7 +4,7 @@ Welcome to the Python Programming Course! This repository contains a structured 
 
 ## Table of Contents
 
-1. [Introduction to Python](#1-introduction-to-python)
+1. [Introduction to Python](https://github.com/pmoschos/PythonForEveryone/tree/main/01.%20Introduction%20to%20Python)
 2. [Identifiers and Reserved Words](#2-identifiers-and-reserved-words)
 3. [Datatypes](#3-datatypes)
 4. [Typecasting](#4-typecasting)
