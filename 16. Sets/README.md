@@ -139,14 +139,14 @@ print(set1.isdisjoint(set2))  # Output: True
 
 Sets are a powerful data type for storing unique elements and performing mathematical set operations. They are useful for tasks that involve membership testing, removing duplicates, and working with multiple sets.
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

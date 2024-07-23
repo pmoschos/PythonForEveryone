@@ -217,14 +217,14 @@ for key, group in groups:
 
 Python's standard library provides a rich set of modules and functions that facilitate various tasks. Understanding and utilizing these modules can significantly enhance your programming skills and efficiency.
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

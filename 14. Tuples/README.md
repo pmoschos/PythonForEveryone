@@ -142,14 +142,14 @@ print(index_of_two)  # Output: 1
 
 Tuples are a useful data type for storing ordered, immutable collections of items. Their immutability provides data integrity and can be useful in various programming scenarios where a fixed collection of items is required. They are memory efficient and can be used as dictionary keys, making them versatile in different applications.
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

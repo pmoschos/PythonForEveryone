@@ -144,14 +144,14 @@ print(nested_list)  # Output: [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 print(nested_list[0][1])  # Output: 2
 ```
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

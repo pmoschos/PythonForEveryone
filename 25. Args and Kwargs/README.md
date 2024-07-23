@@ -3,16 +3,16 @@
 
 In Python, `*args` and `**kwargs` are used to pass a variable number of arguments to a function. They allow flexibility in function calls, making functions more adaptable to different scenarios.
 
-### What are `*args`?
+## What are `*args`?
 
 - `*args` allows you to pass a variable number of non-keyword arguments to a function.
 - `args` is just a name; you can use any name prefixed with a `*`. `*args` is the conventional name.
 
-### How `*args` works
+## How `*args` works
 
 When you prefix a parameter with `*`, it collects all the positional arguments passed to the function into a tuple.
 
-#### Example:
+### Example:
 
 ```python
 def greet(*args):
@@ -34,16 +34,16 @@ In the above example:
 - Each argument is collected into the `args` tuple.
 - The function then iterates over `args` and prints a greeting for each name.
 
-### What are `**kwargs`?
+## What are `**kwargs`?
 
 - `**kwargs` allows you to pass a variable number of keyword arguments to a function.
 - `kwargs` is just a name; you can use any name prefixed with `**`. `**kwargs` is the conventional name.
 
-### How `**kwargs` works
+## How `**kwargs` works
 
 When you prefix a parameter with `**`, it collects all the keyword arguments passed to the function into a dictionary.
 
-#### Example:
+### Example:
 
 ```python
 def display_info(**kwargs):
@@ -65,11 +65,11 @@ In the above example:
 - Each keyword argument is collected into the `kwargs` dictionary.
 - The function then iterates over `kwargs` and prints the key-value pairs.
 
-### Using `*args` and `**kwargs` together
+## Using `*args` and `**kwargs` together
 
 You can use `*args` and `**kwargs` in the same function. When doing so, `*args` must appear before `**kwargs` in the function definition.
 
-#### Example:
+### Example:
 
 ```python
 def display_all(*args, **kwargs):
@@ -89,9 +89,9 @@ name: Charlie
 age: 25
 ```
 
-### Practical Examples
+## Practical Examples
 
-#### Example 1: Function with `*args`
+### Example 1: Function with `*args`
 
 ```python
 def sum_all(*args):
@@ -102,7 +102,7 @@ print(sum_all(1, 2, 3, 4))  # Output: 10
 
 In this example, the `sum_all` function sums up all the positional arguments passed to it.
 
-#### Example 2: Function with `**kwargs`
+### Example 2: Function with `**kwargs`
 
 ```python
 def build_profile(**kwargs):
@@ -114,7 +114,7 @@ print(user_profile)  # Output: {'name': 'Alice', 'age': 30, 'job': 'Engineer'}
 
 In this example, the `build_profile` function collects all keyword arguments into a dictionary and returns it.
 
-#### Example 3: Function with both `*args` and `**kwargs`
+### Example 3: Function with both `*args` and `**kwargs`
 
 ```python
 def introduce(*args, **kwargs):
@@ -134,11 +134,11 @@ age: 25
 city: New York
 ```
 
-### Unpacking `*args` and `**kwargs`
+## Unpacking `*args` and `**kwargs`
 
 You can also use `*args` and `**kwargs` to unpack arguments when calling a function.
 
-#### Example:
+### Example:
 
 ```python
 def multiply(a, b, c):
@@ -164,7 +164,7 @@ In these examples:
 - `*args` unpacks the tuple into positional arguments.
 - `**kwargs` unpacks the dictionary into keyword arguments.
 
-### Conclusion
+## Conclusion
 
 - `*args` and `**kwargs` provide a flexible way to handle a variable number of arguments in functions.
 - `*args` is used for non-keyword variable arguments and collects them into a tuple.
@@ -175,14 +175,14 @@ In these examples:
 Understanding `*args` and `**kwargs` is essential for writing flexible and reusable code in Python. They are particularly useful in scenarios where you need to pass a varying number of arguments to functions, such as in utility functions, decorators, and more.
 
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

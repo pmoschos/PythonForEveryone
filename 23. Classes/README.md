@@ -224,14 +224,14 @@ print(dog1.get_age())  # Output: 4
 
 Classes are a fundamental part of object-oriented programming in Python. Understanding how to define classes, create objects, and use concepts like inheritance, polymorphism, and encapsulation is essential for writing efficient and maintainable Python programs.
 
-### 🔹 📢 Stay Updated
+## 🔹 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 🔹 📄 License
+## 🔹 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### 🔹 Contact 📧
+## 🔹 Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

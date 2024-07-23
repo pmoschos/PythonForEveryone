@@ -75,16 +75,16 @@ print("Hello, Python!")
 python your_program.py
 ```
 
-### Conclusion
+## Conclusion
 Python's combination of simplicity, readability, and a powerful standard library makes it an excellent choice for both novice and experienced developers. Its widespread use in various domains such as web development, data science, and AI underlines its versatility and effectiveness as a programming language.
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

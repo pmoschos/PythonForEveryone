@@ -165,14 +165,14 @@ print(student)  # Output: {'name': 'Alice', 'age': 25, 'courses': {'math': 90, '
 
 Dictionaries are a powerful data structure for storing and managing key-value pairs. They provide efficient lookup, insertion, and deletion operations and are versatile for various applications, such as counting frequencies and storing nested data.
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

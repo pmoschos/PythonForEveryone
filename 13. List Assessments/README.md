@@ -167,14 +167,14 @@ def max_sublist_sum(lst):
 print(max_sublist_sum([1, -2, 3, 4, -1, 2, 1, -5, 4]))  # Output: 9
 ```
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*

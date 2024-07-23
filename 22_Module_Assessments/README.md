@@ -316,14 +316,14 @@ def date_to_string(date, format):
 print(date_to_string(datetime(2024, 1, 1), "%Y-%m-%d"))  # Output: '2024-01-01'
 ```
 
-### 📢 Stay Updated
+## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-### 📄 License
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-### Contact 📧
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
