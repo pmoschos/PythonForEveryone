@@ -30,103 +30,103 @@ Welcome to the Python Programming Course! This repository contains a structured 
 24. [Class Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/24.%20Class%20Assessments)
 25. [Args and Kwargs](https://github.com/pmoschos/PythonForEveryone/tree/main/25.%20Args%20and%20Kwargs)
 
-## 1. Introduction to Python
+## [1. Introduction to Python](https://github.com/pmoschos/PythonForEveryone/tree/main/01.%20Introduction%20to%20Python)
 📘 **Introduction to Python**  
 Learn the basics of Python programming, including its history, syntax, and primary features.
 
-## 2. Identifiers and Reserved Words
+## [2. Identifiers and Reserved Words](https://github.com/pmoschos/PythonForEveryone/tree/main/02.%20Identifiers%20and%20reserved%20words)
 🔤 **Identifiers and Reserved Words**  
 Understand the rules for naming variables and the list of reserved words in Python.
 
-## 3. Datatypes
+## [3. Datatypes](https://github.com/pmoschos/PythonForEveryone/tree/main/03.%20Datatypes)
 🔢 **Datatypes**  
 Explore the various datatypes available in Python, including integers, floats, strings, and booleans.
 
-## 4. Typecasting
+## [4. Typecasting](https://github.com/pmoschos/PythonForEveryone/tree/main/04.%20Typecasting)
 🔄 **Typecasting**  
 Learn how to convert variables from one datatype to another.
 
-## 5. Escape Characters
+## [5. Escape Characters](https://github.com/pmoschos/PythonForEveryone/tree/main/05.%20Escape%20characters)
 🚀 **Escape Characters**  
 Master the use of escape characters to include special characters in strings.
 
-## 6. Operators
+## [6. Operators](https://github.com/pmoschos/PythonForEveryone/tree/main/06.%20Operators)
 ➕ **Operators**  
 Study the different operators in Python, including arithmetic, comparison, logical, and bitwise operators.
 
-## 7. Input Output
+## [7. Input Output](https://github.com/pmoschos/PythonForEveryone/tree/main/07.%20Input%20Output)
 📥 **Input Output**  
 Get familiar with taking input from users and displaying output.
 
-## 8. Control Flow Statements
+## [8. Control Flow Statements](https://github.com/pmoschos/PythonForEveryone/tree/main/08.%20Control%20Flow%20Statements)
 🔀 **Control Flow Statements**  
 Learn about the various control flow statements like if, else, elif, and switch.
 
-## 9. Simple Printing Patterns
+## [9. Simple Printing Patterns](https://github.com/pmoschos/PythonForEveryone/tree/main/09.%20Simple%20Printing%20Patterns)
 🖨️ **Simple Printing Patterns**  
 Practice creating simple patterns and shapes using loops.
 
-## 10. Strings
+## [10. Strings](https://github.com/pmoschos/PythonForEveryone/tree/main/10.%20Strings)
 🔠 **Strings**  
 Dive deep into string operations, methods, and manipulations.
 
-## 11. String Assessments
+## [11. String Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/11.%20String%20Assessments)
 📝 **String Assessments**  
 Assess your understanding of strings with practical exercises.
 
-## 12. Lists
+## [12. Lists](https://github.com/pmoschos/PythonForEveryone/tree/main/12.%20Lists)
 📋 **Lists**  
 Learn about list operations, methods, and applications.
-
-## 13. List Assessments
+ 
+## [13. List Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/13.%20List%20Assessments)
 📝 **List Assessments**  
 Test your knowledge of lists through various assessments.
 
-## 14. Tuples
+## [14. Tuples](https://github.com/pmoschos/PythonForEveryone/tree/main/14.%20Tuples)
 🔗 **Tuples**  
 Understand the properties and usage of tuples in Python.
 
-## 15. Tuple Assessments
+## [15. Tuple Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/15.%20Tuple%20Assessments)
 📝 **Tuple Assessments**  
 Evaluate your grasp of tuples with these assessments.
 
-## 16. Sets
+## [16. Sets](https://github.com/pmoschos/PythonForEveryone/tree/main/16.%20Sets)
 🧩 **Sets**  
 Study the unique characteristics and functions of sets.
 
-## 17. Set Assessments
+## [17. Set Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/17.%20Set%20Assessments)
 📝 **Set Assessments**  
 Challenge your understanding of sets with these exercises.
 
-## 18. Dictionaries
+## [18. Dictionaries](https://github.com/pmoschos/PythonForEveryone/tree/main/18.%20Dictionaries)
 📚 **Dictionaries**  
 Explore the use of dictionaries for storing key-value pairs.
 
-## 19. Dictionary Assessments
+## [19. Dictionary Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/19.%20Dictionary%20Assessments)
 📝 **Dictionary Assessments**  
 Assess your knowledge of dictionaries with practical exercises.
 
-## 20. Functions
+## [20. Functions](https://github.com/pmoschos/PythonForEveryone/tree/main/20.%20Functions)
 🔧 **Functions**  
 Learn how to define and use functions to create reusable code blocks.
 
-## 21. Modules
+## [21. Modules](https://github.com/pmoschos/PythonForEveryone/tree/main/21.%20Modules)
 📦 **Modules**  
 Understand the concept of modules and how to import and use them.
 
-## 22. Module Assessments
+## [22. Module Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/22_Module_Assessments)
 📝 **Module Assessments**  
 Test your understanding of modules with these exercises.
 
-## 23. Classes
+## [23. Classes](https://github.com/pmoschos/PythonForEveryone/tree/main/23.%20Classes)
 🏷️ **Classes**  
 Dive into object-oriented programming with classes and objects.
 
-## 24. Class Assessments
+## [24. Class Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/24.%20Class%20Assessments)
 📝 **Class Assessments**  
 Evaluate your understanding of classes with practical assessments.
 
-## 25. Args and Kwargs
+## [25. Args and Kwargs](https://github.com/pmoschos/PythonForEveryone/tree/main/25.%20Args%20and%20Kwargs)
 🔣 **Args and Kwargs**  
 Learn about *args and **kwargs for flexible function arguments.
 
