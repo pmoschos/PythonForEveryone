@@ -4,31 +4,14 @@ Welcome to the Python Programming Course! This repository contains a structured 
 
 ## Table of Contents
 
-1. [Introduction to Python](https://github.com/pmoschos/PythonForEveryone/tree/main/01.%20Introduction%20to%20Python)
-2. [Identifiers and Reserved Words](https://github.com/pmoschos/PythonForEveryone/tree/main/02.%20Identifiers%20and%20reserved%20words)
-3. [Datatypes](https://github.com/pmoschos/PythonForEveryone/tree/main/03.%20Datatypes)
-4. [Typecasting](https://github.com/pmoschos/PythonForEveryone/tree/main/04.%20Typecasting)
-5. [Escape Characters](https://github.com/pmoschos/PythonForEveryone/tree/main/05.%20Escape%20characters)
-6. [Operators](https://github.com/pmoschos/PythonForEveryone/tree/main/06.%20Operators)
-7. [Input Output](https://github.com/pmoschos/PythonForEveryone/tree/main/07.%20Input%20Output)
-8. [Control Flow Statements](https://github.com/pmoschos/PythonForEveryone/tree/main/08.%20Control%20Flow%20Statements)
-9. [Simple Printing Patterns](https://github.com/pmoschos/PythonForEveryone/tree/main/09.%20Simple%20Printing%20Patterns)
-10. [Strings](https://github.com/pmoschos/PythonForEveryone/tree/main/10.%20Strings)
-11. [String Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/11.%20String%20Assessments)
-12. [Lists](https://github.com/pmoschos/PythonForEveryone/tree/main/12.%20Lists)
-13. [List Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/13.%20List%20Assessments)
-14. [Tuples](https://github.com/pmoschos/PythonForEveryone/tree/main/14.%20Tuples)
-15. [Tuple Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/15.%20Tuple%20Assessments)
-16. [Sets](https://github.com/pmoschos/PythonForEveryone/tree/main/16.%20Sets)
-17. [Set Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/17.%20Set%20Assessments)
-18. [Dictionaries](https://github.com/pmoschos/PythonForEveryone/tree/main/18.%20Dictionaries)
-19. [Dictionary Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/19.%20Dictionary%20Assessments)
-20. [Functions](https://github.com/pmoschos/PythonForEveryone/tree/main/20.%20Functions)
-21. [Modules](https://github.com/pmoschos/PythonForEveryone/tree/main/21.%20Modules)
-22. [Module Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/22_Module_Assessments)
-23. [Classes](https://github.com/pmoschos/PythonForEveryone/tree/main/23.%20Classes)
-24. [Class Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/24.%20Class%20Assessments)
-25. [Args and Kwargs](https://github.com/pmoschos/PythonForEveryone/tree/main/25.%20Args%20and%20Kwargs)
+| #   | Topic                                      | #   | Topic                                    | #   | Topic                                 | #   | Topic                                    | #   | Topic                                 |
+|-----|--------------------------------------------|-----|------------------------------------------|-----|---------------------------------------|-----|------------------------------------------|-----|---------------------------------------|
+| 1   | [Introduction to Python](https://github.com/pmoschos/PythonForEveryone/tree/main/01.%20Introduction%20to%20Python)            | 6   | [Operators](https://github.com/pmoschos/PythonForEveryone/tree/main/06.%20Operators)           | 11  | [String Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/11.%20String%20Assessments)       | 16  | [Sets](https://github.com/pmoschos/PythonForEveryone/tree/main/16.%20Sets)         | 21  | [Modules](https://github.com/pmoschos/PythonForEveryone/tree/main/21.%20Modules)   |
+| 2   | [Identifiers and Reserved Words](https://github.com/pmoschos/PythonForEveryone/tree/main/02.%20Identifiers%20and%20reserved%20words) | 7   | [Input Output](https://github.com/pmoschos/PythonForEveryone/tree/main/07.%20Input%20Output)   | 12  | [Lists](https://github.com/pmoschos/PythonForEveryone/tree/main/12.%20Lists)           | 17  | [Set Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/17.%20Set%20Assessments) | 22  | [Module Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/22_Module_Assessments)  |
+| 3   | [Datatypes](https://github.com/pmoschos/PythonForEveryone/tree/main/03.%20Datatypes)                  | 8   | [Control Flow Statements](https://github.com/pmoschos/PythonForEveryone/tree/main/08.%20Control%20Flow%20Statements) | 13  | [List Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/13.%20List%20Assessments)   | 18  | [Dictionaries](https://github.com/pmoschos/PythonForEveryone/tree/main/18.%20Dictionaries)  | 23  | [Classes](https://github.com/pmoschos/PythonForEveryone/tree/main/23.%20Classes) |
+| 4   | [Typecasting](https://github.com/pmoschos/PythonForEveryone/tree/main/04.%20Typecasting)            | 9   | [Simple Printing Patterns](https://github.com/pmoschos/PythonForEveryone/tree/main/09.%20Simple%20Printing%20Patterns) | 14  | [Tuples](https://github.com/pmoschos/PythonForEveryone/tree/main/14.%20Tuples)         | 19  | [Dictionary Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/19.%20Dictionary%20Assessments) | 24  | [Class Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/24.%20Class%20Assessments)  |
+| 5   | [Escape Characters](https://github.com/pmoschos/PythonForEveryone/tree/main/05.%20Escape%20characters)   | 10  | [Strings](https://github.com/pmoschos/PythonForEveryone/tree/main/10.%20Strings)         | 15  | [Tuple Assessments](https://github.com/pmoschos/PythonForEveryone/tree/main/15.%20Tuple%20Assessments) | 20  | [Functions](https://github.com/pmoschos/PythonForEveryone/tree/main/20.%20Functions)  | 25  | [Args and Kwargs](https://github.com/pmoschos/PythonForEveryone/tree/main/25.%20Args%20and%20Kwargs)  |
+
 
 ## [1. Introduction to Python](https://github.com/pmoschos/PythonForEveryone/tree/main/01.%20Introduction%20to%20Python)
 📘 **Introduction to Python**  
