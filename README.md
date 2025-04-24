@@ -1,4 +1,5 @@
 # 🐍 Python Programming Course 🐍
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/PythonForEveryone.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/PythonForEveryone) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Welcome to the Python Programming Course! This repository contains a structured set of lectures designed to guide you through learning Python, from the basics to more advanced topics.
 
